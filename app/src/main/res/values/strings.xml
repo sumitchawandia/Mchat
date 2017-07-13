@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Mchat</string>
+    <!--Welcome Text-->
+    <string name="welcometext">Welcome to\n M CHAT -R/F</string>
+    <!--Instruction Text-->
+    <string name="instructionText">The Modified Checklist for Autism in Toddlers, Revised with Follow-Up is a 2-stage parent-report screening tool to assess risk for Autism Spectrum Disorder(ASD)</string>
+    <!--Know more Text-->
+    <string name="knowMore">Know More</string>
+    <!--Button Text-->
+    <string name="takeTheTest">Take the Test</string>
+    <!--Header text for introduction activity-->
+    <string name="mchatrf">M CHAT -R/F</string>
+    <!--Introduction full text-->
+    <string name="introductionFullText">The Modified Checklist for Autism in Toddlers,
+    Revised with Follow-Up is a 2-stage parent-report
+    screening tool to assess risk for Autism Spectrum
+     Disorder(ASD)
+    </string>
+    <!--Introduction full text part-2 -->
+    <string name="introductionFullText_1">Instruction for Use</string>
+    <!--Introduction full text part-3 -->
+    <string name="introductionFullText_2">The M-CHAT-R can be administered and scored
+    as part of a well-child care visit, and also can be
+    used by specialists or other professionals to
+    assess risk for ASD. The primary goal of the
+    M-CHAT-R is to maximize sensitivity, meaning that not all children who score at risk will be diagnosed
+    with ASD. To address this, we have developed the Follow-Up question(M-CHAT-R/F).
+    Users should be aware that even with the
+    Follow-Up, a significant number of the children
+    who screen positive on the M-CHAT-R will not be
+    diagnosed with ASD; however, these children are
+    at high risk for other developmental disorders or
+    delays, and therefore, evaluation is warranted for
+    any child who screen positive. The M-CHAT_R
+    can be scored in less than two minutes.\n\n</string>
+
+</resources>
