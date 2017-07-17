@@ -18,6 +18,8 @@
         </activity>
         <activity android:name=".MainDetailActivity" >
         </activity>
+        <activity android:name=".ChildInfoActivity" >
+        </activity>
     </application>
 
 </manifest>

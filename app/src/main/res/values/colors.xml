@@ -11,4 +11,6 @@
     <color name="instructionTextColor">#666666</color>
     <!--Button Background color-->
     <color name="buttonBackground">#f499c1</color>
+    <!--Light green color-->
+    <color name="greenColor">#8dc63f</color>
 </resources>

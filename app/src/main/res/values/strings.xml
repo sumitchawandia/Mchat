@@ -34,4 +34,19 @@
     any child who screen positive. The M-CHAT_R
     can be scored in less than two minutes.\n\n</string>
 
+    <!--Childs Details-->
+    <string name="childDetail">Childs Details</string>
+
+    <!--Child Name-->
+    <string name="nameOfChild">Name of the child</string>
+
+    <!--Age of the child-->
+    <string name="ageOfChild">Age of the child</string>
+    <!--Exam Start button-->
+    <string name="letsStart">Lets Start</string>
+    <!--Hint for Name field-->
+    <string name="hintName">Enter the name of child</string>
+    <!--Hint for age field-->
+    <string name="hintAge">Enter the age of child</string>
+
 </resources>
