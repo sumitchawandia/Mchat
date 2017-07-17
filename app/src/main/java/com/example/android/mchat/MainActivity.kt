@@ -16,5 +16,9 @@ class MainActivity : AppCompatActivity() {
         knowMore.setOnClickListener {
             startActivity(Intent(this, MainDetailActivity::class.java))
         }
+        var takeTheTest = findViewById(R.id.takeTheTest) as TextView
+        takeTheTest.setOnClickListener {
+            startActivity(Intent(this, ChildInfoActivity::class.java))
+        }
     }
 }
