@@ -51,7 +51,7 @@
         android:textSize="35sp"
         android:paddingTop="7dp"
         android:layout_alignParentBottom="true"
-        android:id="@+id/takeTheTest"
+        android:id="@+id/bt_take_the_test"
         android:layout_marginLeft="10dp"
         android:layout_marginRight="10dp"
         android:layout_marginBottom="20dp"

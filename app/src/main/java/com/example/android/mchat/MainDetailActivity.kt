@@ -13,11 +13,12 @@ class MainDetailActivity : AppCompatActivity() {
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        setContentView(R.layout.introduction_detail_activity)
+        setContentView(R.layout.activity_introduction_detail)
 
-        var takeTheTest = findViewById(R.id.takeTheTest) as TextView
+        var takeTheTest = findViewById(R.id.bt_take_the_test) as TextView
         takeTheTest.setOnClickListener {
-            startActivity(Intent(this, ChildInfoActivity::class.java))
+            val a = Intent(this, ChildInfoActivity::class.java)
+            startActivity(a)
         }
     }
 }

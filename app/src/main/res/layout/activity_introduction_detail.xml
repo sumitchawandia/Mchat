@@ -57,6 +57,6 @@
             android:textSize="35sp"
             android:textColor="@color/welcometextcolor"
             android:textAlignment="center"
-            android:id="@+id/takeTheTest"
+            android:id="@+id/bt_take_the_test"
             />
 </RelativeLayout>
